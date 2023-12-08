@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "0F0D21EE-6803-4B4D-A3EE-F0947E763B9E"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6B3D94A1-2887-474E-AAD7-783C381E8694"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Signin/Core/Root/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "6B3D94A1-2887-474E-AAD7-783C381E8694 - 64729d319a0d2f9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "caloriesApp.ContentView.init() -&gt; caloriesApp.ContentView"
+                  moduleName = "caloriesApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rickytruckner/Downloads/caloriesApp/Signin/Core/Root/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "27">
+               </Location>
+               <Location
+                  uuid = "6B3D94A1-2887-474E-AAD7-783C381E8694 - dc94c5e5ea51b1a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "caloriesApp.ContentView.init(viewModel: SwiftUI.EnvironmentObject&lt;caloriesApp.AuthViewModel&gt;) -&gt; caloriesApp.ContentView"
+                  moduleName = "caloriesApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rickytruckner/Downloads/caloriesApp/Signin/Core/Root/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "20">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
